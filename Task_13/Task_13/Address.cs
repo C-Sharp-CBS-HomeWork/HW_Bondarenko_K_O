@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Task_13
+﻿namespace Task_13
 {
     class Address
     {

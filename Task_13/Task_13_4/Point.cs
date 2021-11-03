@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Task_13_4
+﻿namespace Task_13_4
 {
     public class Point
     {
